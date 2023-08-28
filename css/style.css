@@ -1,0 +1,31 @@
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.btn {
+    width: 130px;
+    padding: 10px;
+    background-color: #686767;
+    color: #ffffff;
+    border: none;
+    box-shadow: none;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#cep {
+    padding: 7px;
+    border: 1px solid #686767;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+#result {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #686767;
+}
