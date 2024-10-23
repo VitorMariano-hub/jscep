@@ -19,4 +19,7 @@ No script são definidos as seguintes constantes:
 
 * Dentro da função .then(data => { ... }), os dados do CEP são usados para criar uma string de texto HTML que exibe informações detalhadas sobre o CEP, logradouro, bairro, cidade e estado.
 
+  ![image](https://github.com/user-attachments/assets/d55d2426-1f6b-410a-814a-59325f84d27f)
+
+
 ![bears](https://i.postimg.cc/V6bHXGWB/Cep.png)
